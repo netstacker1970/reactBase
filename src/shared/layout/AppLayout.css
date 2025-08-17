@@ -1,0 +1,26 @@
+.layout-header {
+    background-color: lightblue;
+}
+
+.layout-nav {
+    
+}
+
+.layout-divider {
+    
+}
+
+.btn {
+    background-color: rgb(240, 237, 80);
+    color: green;
+    font-weight: 600;
+    padding: 4px;
+    border-radius: 5px;   
+}
+.btn.active {
+    background-color: rgb(240, 131, 80);
+    color: rgb(233, 230, 34);
+    font-weight: 600;
+    padding: 4px;
+    border-radius: 5px;   
+}
